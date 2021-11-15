@@ -1,0 +1,7 @@
+mkdir-->to create folders or directories
+cd--> to change directories
+python -m venv directory(folder) name-->to create virtual environmnet
+source bin/activate-->to activate virtual environment
+deactivate-->to deactivate virtual environment
+install-pkg package name-->to install non python packages
+pip install package name--> to install python packages
